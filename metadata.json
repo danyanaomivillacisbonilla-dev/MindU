@@ -1,0 +1,6 @@
+{
+  "name": "MindU",
+  "description": "Plataforma integral para estudiantes de Psicología con apoyo académico, bienestar emocional y simulaciones clínicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
